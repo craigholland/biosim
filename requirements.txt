@@ -1,0 +1,4 @@
+cairocffi==1.1.0
+cffi==1.14.0
+pycairo==1.19.1
+pycparser==2.20
